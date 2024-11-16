@@ -1,1 +1,4 @@
-Hello! My name is Gabriel and I want to be a developer, not too special!
+<div>
+    <h1>Ello</h1>
+    <p>im too lazy to create an about me n stuff... but i'll make one later</p>
+</div>
