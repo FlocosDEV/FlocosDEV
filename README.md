@@ -1,4 +1,4 @@
 <div>
     <h1>Opa...</h1>
-    <p>Esse README ainda está andamento...</p>
+    <p>Este README ainda está em andamento...</p>
 </div>
