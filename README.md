@@ -1,4 +1,4 @@
 <div>
-    <h1>Ello</h1>
-    <p>im too lazy to create an about me n stuff... but i'll make one later</p>
+    <h1>Opa...</h1>
+    <p>Esse README ainda está andamento...</p>
 </div>
